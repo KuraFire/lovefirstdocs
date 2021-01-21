@@ -6,7 +6,7 @@ description: >-
 
 # Start Here
 
-This is an open source documentation for **Love First**.
+This is an open source documentation for \[\[**Love First\]\]**.
 
 ### What is Love First
 
@@ -37,12 +37,12 @@ For convenience purposes, any use of the word “love” in this entire document
 
 To start, Love First explains Universal Love \(from hereon simply referred to as "love"\) using the classical elements and how they each cultivate love in you:
 
-| **Element** | **Practices \(Volution 1\)** |
-| :--- | :--- |
-| **Air** | Believe In Possibility |
-| **Water** | Be Truthful |
-| **Earth** | Share Your Story |
-| **Fire** | Embrace Vulnerability |
+| **Element** | **Practices \(Volution 1\)** | Gift | Value |
+| :--- | :--- | :--- | :--- |
+| **Water** | Be Truthful | Clarity | Integrity |
+| **Fire** | Embrace Vulnerability | Focus | Strength |
+| **Air** | Believe In Possibility | Ease | Hope |
+| **Earth** | Share Your Story | Grace | Connection |
 
 #### Air
 
